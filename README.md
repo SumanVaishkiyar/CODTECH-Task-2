@@ -1,5 +1,5 @@
 ## PERSONAL DETAILS :
-  #### Name : SANKET YADAV
+  #### Name : SUMAN KUMAR
   #### Company : CODTECH IT SOLUTIONS
   #### ID : CT08DS2481
   #### Domain : PYTHON PROGRAMMING
