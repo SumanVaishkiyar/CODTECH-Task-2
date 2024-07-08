@@ -1,3 +1,4 @@
+![Screenshot_20240708_130713](https://github.com/SumanVaishkiyar/CODTECH-Task-2/assets/154892981/06e5c77d-d1c6-42dc-96a7-33db38c11f79)
 ## PERSONAL DETAILS :
   #### Name : SUMAN KUMAR
   #### Company : CODTECH IT SOLUTIONS
